@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>StyleSphere</title>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<header>
+
+    <nav class="navbar">
+
+        <ul class="menu">
+
+            <li><a href="#">HOME</a></li>
+            <li><a href="#">WOMEN</a></li>
+            <li><a href="#">MEN</a></li>
+            <li><a href="#">KIDS</a></li>
+            <li><a href="#">BOYS</a></li>
+            <li><a href="#">GIRLS</a></li>
+
+        </ul>
+
+        <div class="icons">
+
+            <a href="#">USD ▼</a>
+            <a href="#">🔍</a>
+            <a href="#">👤</a>
+            <a href="#">🛒</a>
+
+        </div>
+
+    </nav>
+
+</header>
+
+<section class="hero">
+
+    <img src="sp.img.webp" class="banner">
+
+    <div class="logo-text">
+        <img src="LOGO_NEW.webp" class="logo">
+    </div>
+
+</section>
+<section class="features">
+
+    <div class="box">
+        <img src="images/truck.webp" alt="">
+        <h2>FAST SHIPPING</h2>
+        <p>Delivery within 3-7 business days</p>
+    </div>
+
+    <div class="box">
+        <img src="images/lock.webp" alt="">
+        <h2>SECURE PAYMENT</h2>
+        <p>Trusted and protected checkout</p>
+    </div>
+
+    <div class="box">
+        <img src="images/quality.webp" alt="">
+        <h2>PREMIUM QUALITY</h2>
+        <p>Carefully selected quality products</p>
+    </div>
+
+    <div class="box">
+        <img src="images/return.webp" alt="">
+        <h2>ORDER PROTECTION</h2>
+        <p>Support for damaged or incorrect items</p>
+    </div>
+
+</section>
+</body>
+
+</html>
